@@ -301,4 +301,3 @@ while True : #Looping program
     else :    #Stop looping
         print("Operasi Portal Dimatikan")
         break
-    # else: continue
